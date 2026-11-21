@@ -1,0 +1,11 @@
+site_name: RChain Correct-by-Construction Architecture Documentation
+site_description: Technical documentation for RChain: concurrent Rho-calculus computation, namespace logic, and formally verified state transitions.
+site_url: https://rchain-architecture.readthedocs.io/
+theme:
+  name: readthedocs
+
+nav:
+  - RChain Architecture & Overview: index.md
+  - Rho-Calculus & Formal Verification: rho-calculus.md
+  - Cryptographic Verification & News Wire Protocols: cryptographic-wire-verification.md
+  - Troubleshooting & Node Diagnostics: troubleshooting.md
